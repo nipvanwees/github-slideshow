@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Wat is het verschil tussen een boer en een koning?
 Use the left arrow to go back!
